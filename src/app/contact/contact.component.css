@@ -2,7 +2,9 @@
     margin: 20px auto;
     width: 90%;
 }
-
+.main-nav {
+    padding: 10px 5%;
+}
 .contact-button {
     margin-right: 10px;
 }
@@ -10,4 +12,7 @@
     display: grid;
     margin: 20px auto;
     width: 90%;
+    height: 80vh;
+    max-height: 80vh;
+    overflow: auto;
 }
